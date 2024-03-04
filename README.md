@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**Ondry4K/Ondry4K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Hi, I’m @Ondry4K
+- 👀 I’m interested in all sorts of coding.
+- 🌱 I’m currently learning Lua, Python, JS
+- 💞️ I’m looking to collaborate on my projects
+- 📫 How to reach me admin@devlamb.org
+- 🌐 My abandoned news website: https://boxnetwork.online  
+![](https://komarev.com/ghpvc/?username=Ondry4K)
+<!---
+Leader and founder of DevLamb Org. @ https://devlamb.org
+--->
