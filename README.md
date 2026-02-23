@@ -23,7 +23,7 @@ I develop websites, dashboards and fully integrated backends/systems.
 
 ## ➤ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ondry4K&show_icons=true&theme=tokyonight) ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ondry4K&show_icons=true&theme=tokyonight) ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎‎
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ondry4K&layout=compact&theme=tokyonight)
 
 ---
